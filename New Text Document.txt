@@ -1,0 +1,7 @@
+create repository:-
+1. Select new repository.
+2. Type a short memorable name for repository.
+3. Optionally you can add description .
+4. Initialize repository with a README file.
+5. Click create repository.
+(REPOSITORY CREATED)
