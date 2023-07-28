@@ -5,3 +5,5 @@ create repository:-
 4. Initialize repository with a README file.
 5. Click create repository.
 (REPOSITORY CREATED)
+
+day 2
